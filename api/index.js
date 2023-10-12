@@ -1,0 +1,1 @@
+export {default as obtenmasApi } from './obtenmasApi'
